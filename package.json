@@ -1,5 +1,5 @@
 {
-  "name": "wagner-uhren-maske",
+  "name": "wagner-uhren-produktmaske",
   "description": "",
   "scripts": {
     "serve": "cross-env NODE_ENV=development concurrently \"postcss public/tailwind.css -o public/build/tailwind.css --watch\"  \"live-server ./public\"",
